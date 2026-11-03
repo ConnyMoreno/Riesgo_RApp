@@ -1,0 +1,6 @@
+.git
+.env
+.env.*
+config.neon.local.php
+*.log
+*.zip

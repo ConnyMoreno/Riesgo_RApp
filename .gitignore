@@ -3,8 +3,6 @@
 /.env
 /.env.*
 *.log
-/render/
-/Dockerfile
 /render.yaml
-/.dockerignore
 /DESPLIEGUE_RENDER.md
+/render/migracion_registro.sql
